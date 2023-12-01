@@ -35,4 +35,5 @@ Save this query in your editor and then click 'Compile & Run' button to check fo
 ## Output
 
 ![image](https://github.com/Tan12d/PWC_RDBMS_using_Oracle/assets/100254217/241e9f7e-1b11-4620-980f-e033e6594cb3)
+
 ![image](https://github.com/Tan12d/PWC_RDBMS_using_Oracle/assets/100254217/63088582-ac5a-451d-84f1-9dd67cfb4eac)
