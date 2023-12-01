@@ -20,6 +20,8 @@ Hol950
 
 (Note: Data is case sensitive)
 
+![image](https://github.com/Tan12d/PWC_RDBMS_using_Oracle/assets/100254217/e2e67189-24cd-484a-8f0e-6688f3f7ba97)
+
 ## Output
 
-![image](https://github.com/Tan12d/PWC_RDBMS_using_Oracle/assets/100254217/e2e67189-24cd-484a-8f0e-6688f3f7ba97)
+![image](https://github.com/Tan12d/PWC_RDBMS_using_Oracle/assets/100254217/ced7dfca-3efd-470a-84d2-5180e78011ee)
