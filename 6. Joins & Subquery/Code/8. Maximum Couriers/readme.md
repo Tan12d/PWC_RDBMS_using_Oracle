@@ -6,4 +6,5 @@
 
 ## Output
 
-![image](https://github.com/Tan12d/PWC_RDBMS_using_Oracle/assets/100254217/43d6be09-c8a2-4efa-8077-1812a3dcc695)
+![image](https://github.com/Tan12d/PWC_RDBMS_using_Oracle/assets/100254217/e096caf8-60d9-4e08-8d7b-abe4e8ce91ba)
+
