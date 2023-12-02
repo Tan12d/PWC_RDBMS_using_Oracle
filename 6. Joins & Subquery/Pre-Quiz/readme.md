@@ -1,4 +1,4 @@
-![image](https://github.com/Tan12d/PWC_RDBMS_using_Oracle/assets/100254217/ba07cf3a-bfb2-4ae2-a403-c50cefce1368)# Quiz
+# Quiz
 
 ![image](https://github.com/Tan12d/PWC_RDBMS_using_Oracle/assets/100254217/b7f481ea-e1f4-4eb0-9230-054805c6d8db)
 
